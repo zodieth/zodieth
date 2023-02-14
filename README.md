@@ -1,7 +1,5 @@
 # 🏄‍♂️ Full Stack Developer
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
 Full Stack Developer con formación en el bootcamp de SoyHenry. Experiencia trabajando con React, Redux , Javascript, Typescript, NodeJS, PostgreSQL, entre otras tecnologías del sector. 
 
 
